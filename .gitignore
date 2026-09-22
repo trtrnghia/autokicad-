@@ -1,0 +1,35 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.env
+.venv/
+env.bak/
+venv.bak/
+
+# Project builds
+test_*/
+*autokicad_test*/
+build/
+dist/
+*.kicad_pro
+*.kicad_sch
+*.kicad_pcb
+*.kicad_prl
+*.step
+*.stp
+RELEASE/
+VERIFICATION/
+DOCUMENTATION/
+ASSEMBLY/
+FABRICATION/
+3D/
+KicadLastRelease/
+MANIFEST.json
+
+# OS files
+.DS_Store
+Thumbs.db
